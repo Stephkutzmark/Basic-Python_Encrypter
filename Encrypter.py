@@ -13,6 +13,11 @@ def menu():
       option = input('Would you like to Encrypt or Decrypt? ')
 
 choice = menu()
+
+#this is a change
+
+#This is another change 
+
 while choice:
   if choice == 1:
     decryptkey = ''
